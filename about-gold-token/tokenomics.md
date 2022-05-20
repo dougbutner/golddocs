@@ -1,5 +1,9 @@
 # GOLD contracts + Tokenomic Brief
 
+___
+[🏡 Project Website](http://tomoonfor.earth) | [🌗 Market](https://wax.alcor.exchange/trade/silver-silversilver_gold-goldgoldgold) | [🌕 Swap](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) | [🌑 Swap](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=SILVER-silversilver) | [🛸 Telegram](https://t.me/ToMoonForEarth) 
+___
+
 Here you can find the on-chain links to the tokens in the GOLD ecosystem 
 
 # 🌕 GOLD Economic Brief

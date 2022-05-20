@@ -1,5 +1,10 @@
 ## Gold Moons 🌝🌚
 
+___
+[🏡 Project Website](http://tomoonfor.earth) | [🌗 Market](https://wax.alcor.exchange/trade/silver-silversilver_gold-goldgoldgold) | [🌕 Swap](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) | [🌑 Swap](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=SILVER-silversilver) | [🛸 Telegram](https://t.me/ToMoonForEarth) 
+___
+
+
 **Golden Moons** celebrate $GOLD token reaching a certain price in WAX. (NFT reward for top 100 GOLD holders after 🌕 15) We don't promise any utility, but if you take a look at all the NFT-based DeFi solutions Douglas has created, you can imagine the possibilities.  
 
 > New Rewards: We've just added a single-token-staking GOLD to the new model below. As this makes the old system obsolete, we've indefinitely paused all of the old rewards, but you can read about them at the bottom of this page.

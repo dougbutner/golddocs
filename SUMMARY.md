@@ -1,6 +1,5 @@
 # 📖 Table of Contents
 
-* [Introduction](README)
 * [GOLD Spirit](about-gold-token/spirit.md)
     * [GOLDen Spirit](about-gold-token/spirit.md)
     * [GOLD Updates](about-gold-token/updates.md)

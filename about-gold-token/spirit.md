@@ -1,5 +1,10 @@
 # The Spirit of GOLD 🕊️🌍
 
+___
+[🏡 Project Website](http://tomoonfor.earth) | [🌗 Market](https://wax.alcor.exchange/trade/silver-silversilver_gold-goldgoldgold) | [🌕 Swap](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=GOLD-goldgoldgold) | [🌑 Swap](https://wax.alcor.exchange/swap?input=WAX-eosio.token&output=SILVER-silversilver) | [🛸 Telegram](https://t.me/ToMoonForEarth) 
+___
+
+
 GOLD was created as a means to catalyze re-incorporation of the human collective into the Gaia collective through funding small-scale permaculture projects (we also launched [Perma.rocks](https://perma.rocks)) that bring humans in close contact with nature. We hope to remind humanity that we are a living breathing part of the ecosystem, and we are an incredible and abundant living planet. 
 
 This connecting spirit, including our shared goal of reaching another Golden Moon, ties mathmatically-inspired in tokenomics, and rooted in the amount of real gold on Earth. 
