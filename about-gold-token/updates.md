@@ -1,5 +1,16 @@
 # 🌓 GOLD Project Updates 
 
+
+# Glanceable Changelog
+We keep a detailed changelog through GIT
+
+- SILVER pools added as new reward model
+- Single-staking GOLD pool added
+- Old monthly rewards removed 
+- GOLD final fundraising listing clarified
+- Removed defunct r.land links
+
+
 ##  Rewards Update 
 
 After opening rewards on [bludac.io](https://bludac.io) we have removed "Silver Moons" from rewards, as well as the old once-per-month GOLD holders reward. Both of these tokens are now rewarded daily on [bludac.io](https://bludac.io). Because the old rewards were based on the LP token [GOLDSIL](https://wax.alcor.exchange/swap?output=SILVER-silversilver&input=GOLD-goldgoldgold) and the [GOLD](https://wax.alcor.exchange/trade/gold-goldgoldgold_wax-eosio.token) token, and so were the new rewards, this created competition and difficulty to collect the maximum reward. Bludac requires a 3-day wait to withdraw. The new rewards are both larger in terms of SILVER return and daily instead on monthly.   

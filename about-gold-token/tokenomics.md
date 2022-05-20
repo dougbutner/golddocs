@@ -1,4 +1,4 @@
-# GOLD contracts + Economic Brief
+# GOLD contracts + Tokenomic Brief
 
 Here you can find the on-chain links to the tokens in the GOLD ecosystem 
 
